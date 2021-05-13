@@ -11,5 +11,5 @@ Program also uses random generator described by a normal and exponential distrib
 In a constant loop there is statistics shown in the end. 
 Simulation may take some time because of a lot of comments in the code. Comment them for faster simulation - simulation for 50k clients should take few seconds.
 
-# Project status
+## Project status
 This simulation was made for a educational purpose only for a Digital Simulation subject and is not further developed.
